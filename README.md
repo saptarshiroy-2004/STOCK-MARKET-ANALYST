@@ -1,23 +1,69 @@
-📈 Stock Market Analysis
+# 📈 Stock Market Analysis & Prediction
 
-A data-driven project to analyze and visualize stock market trends using Python.
-This project includes exploratory data analysis (EDA), visualization, and predictive modeling of stock prices to gain insights into market behavior.
+> A data-driven stock market analysis and forecasting system built using Python.  
+> This project performs Exploratory Data Analysis (EDA), technical indicator computation, and predictive modeling to extract actionable insights from financial data.
 
-🔑 Features
+---
 
-📊 Exploratory Data Analysis (EDA): Analyze stock price trends, returns, and volatility.
-📉 Technical Indicators: Moving Averages, RSI, MACD, Bollinger Bands, etc.
-🤖 Machine Learning Models: Predict future stock prices using regression and time-series models (ARIMA, LSTM, etc.).
-📌 Visualization: Interactive plots of stock price movements and trends.
-🗂️ Customizable: Analyze any stock ticker with ease.
+## 🚀 Project Overview
 
+Financial markets generate vast amounts of time-series data. This project leverages data science and machine learning techniques to:
 
-🛠️ Tech Stack
-Programming Language: Python
-Libraries:
-pandas, numpy – Data handling
-matplotlib, seaborn, plotly – Visualization
-scikit-learn – Machine Learning
-statsmodels – Time Series Analysis
-yfinance – Stock Data Extraction
+- Analyze historical stock trends
+- Compute technical indicators
+- Visualize volatility and returns
+- Forecast future stock prices using ML & time-series models
+
+It is designed to be **modular, extensible, and customizable** for any stock ticker.
+
+---
+
+## 📊 Key Features
+
+### 🔍 Exploratory Data Analysis (EDA)
+- Stock price trends
+- Daily & cumulative returns
+- Volatility analysis
+- Correlation heatmaps
+- Distribution analysis
+
+### 📉 Technical Indicators
+- Simple Moving Average (SMA)
+- Exponential Moving Average (EMA)
+- Relative Strength Index (RSI)
+- MACD (Moving Average Convergence Divergence)
+- Bollinger Bands
+- Rolling volatility
+
+### 🤖 Predictive Modeling
+- Linear Regression
+- Random Forest Regression
+- ARIMA (Time Series Forecasting)
+- LSTM (Deep Learning Model)
+
+### 📌 Interactive Visualizations
+- Candlestick charts
+- Moving average overlays
+- RSI & MACD indicator plots
+- Forecast vs Actual comparison
+- Interactive Plotly dashboards
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+- Python
+
+### Libraries
+- pandas, numpy – Data handling
+- matplotlib, seaborn, plotly – Visualization
+- scikit-learn – Machine Learning
+- statsmodels – Time Series Analysis
+- TensorFlow / Keras – Deep Learning (LSTM)
+- yfinance – Stock Data Extraction
+
+---
+
+## 📂 Project Structure
 
