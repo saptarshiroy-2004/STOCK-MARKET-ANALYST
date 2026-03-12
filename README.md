@@ -65,5 +65,4 @@ It is designed to be **modular, extensible, and customizable** for any stock tic
 
 ---
 
-## 📂 Project Structure
 
